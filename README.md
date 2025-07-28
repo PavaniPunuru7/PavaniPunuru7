@@ -1,6 +1,4 @@
-💫 Hi 👋,
-
-# **<u>Pavani Punuru</u>**
+# **<u>💫 Hi 👋,I'm Pavani Punuru</u>**
 
 A passionate Full Stack Developer  
 
