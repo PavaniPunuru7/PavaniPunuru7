@@ -1,12 +1,13 @@
-💫 Hi 👋, I'm Pavani Punuru 
+💫 Hi 👋,
 
+# **<u>Pavani Punuru</u>**
 
 A passionate Full Stack Developer  
- 
+
 👯 I’m looking to collaborate on: Real-world web development or AI-integrated applications  
 🤔 I’m looking for help with: Advanced practices and scalable backend architecture  
 💬 Ask me about: Full Stack Development, React, Node.js, Firebase, or AI project ideas  
-📫 How to reach me: pavanipunuru7@gmail.com
+📫 How to reach me: pavanipunuru7@gmail.com  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/pavanipunuru/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punurupavani7@gmail.com) 
