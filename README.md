@@ -1,4 +1,6 @@
-💫 Hi 👋, I'm Pavani Punuru  
+💫 Hi 👋, I'm Pavani Punuru 
+
+
 A passionate Full Stack Developer  
  
 👯 I’m looking to collaborate on: Real-world web development or AI-integrated applications  
